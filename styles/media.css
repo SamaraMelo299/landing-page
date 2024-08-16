@@ -1,146 +1,143 @@
 @media screen and (max-width: 400px) {
-    header {
-        flex-direction: row;
-    }
+  header {
+    flex-direction: row;
+  }
 
-    h1 {
-        text-align: center;
-        font-size: 20px;
-    }
+  h1 {
+    text-align: center;
+    font-size: 20px;
+  }
 
-    h2 {
-        font-size: 25px;
-    }
+  h2 {
+    font-size: 25px;
+  }
 
-    img {
-        display: none;
-    }
-
+  img {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 775px) {
-    header {
-        flex-direction: column;
-    }
+  header {
+    flex-direction: column;
+  }
 
-    li {
-        margin: 15px;
-        text-align: center;
-    }
+  li {
+    margin: 15px;
+    text-align: center;
+  }
 
-    h1 {
-        text-align: center;
-        font-size: 30px;
-    }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+  }
 
-    main {
-        flex-direction: column;
-    }
+  main {
+    flex-direction: column;
+  }
 
-    aside {
-        align-self: center;
-    }
+  aside {
+    align-self: center;
+  }
 
-    p {
-        align-self: center;
-    }
+  p {
+    align-self: center;
+  }
 
-    span {
-        font-size: 38px;
-    }
+  span {
+    font-size: 38px;
+  }
 
-    h2 {
-        font-size: 36px;
-    }
-    
+  h2 {
+    font-size: 36px;
+  }
 
-    form {
-        margin: 0 auto;
-        width: 100%;
-    }
+  form {
+    margin: 0 auto;
+    width: 100%;
+  }
 
-    input {
-        align-self: center;
-    }
+  input {
+    align-self: center;
+  }
 
-    img {
-        display: none;
-    }
+  img {
+    display: none;
+  }
 
-    ul {
-        text-align: center;
-    }
+  ul {
+    text-align: center;
+  }
 }
 
-@media screen and (max-width: 992px){
-    header {
-        flex-direction: row;
-        justify-content: space-between;
-    }
+@media screen and (max-width: 992px) {
+  header {
+    flex-direction: row;
+    justify-content: space-between;
+  }
 
-    main h2 {
-        font-size: 30px;
-    }
+  main h2 {
+    font-size: 30px;
+  }
 
-    p {
-        text-align: center;
-    }
+  p {
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 1200px) {
-    header {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: center;
-    }
+  header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
 
-    h1 {
-        text-align: center;
-        font-size: 35px;
-    }
+  h1 {
+    text-align: center;
+    font-size: 35px;
+  }
 
-    aside {
-        text-align: center;
-    }
+  aside {
+    text-align: center;
+  }
 
-    p {
-        line-height: 20px;
-        font-family: 'poppinsligth';
-        padding: 10px;
-        text-align: center;
-    }
+  p {
+    line-height: 20px;
+    font-family: "poppinsligth";
+    padding: 10px;
+    text-align: center;
+  }
 
-    h2 {
-        font-size: 46px;
-        line-height: 0px;
-        text-align: center;
-    }
-    
+  h2 {
+    font-size: 46px;
+    line-height: 0px;
+    text-align: center;
+  }
 
-    form {
-        display: flex;
-        flex-direction: column;
-        width: 70%;
-        padding: 10px;
-    }
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    padding: 10px;
+  }
 
-    input {
-        align-self: center;
-    }
+  input {
+    align-self: center;
+  }
 
-    img {
-        width: 400px;
-        margin-top: 150px;
-        margin-left: 55px;
-    }
+  img {
+    width: 400px;
+    margin-top: 150px;
+    margin-left: 55px;
+  }
 
-    ul {
-        text-align: center;
-    }
+  ul {
+    text-align: center;
+  }
 
-    footer {
-        width: 100%;
-        padding-left: 0;
-    }
+  footer {
+    width: 100%;
+    padding-left: 0;
+  }
 }
