@@ -17,6 +17,7 @@ header {
 #title {
   flex-direction: column;
   line-height: 10px;
+  padding: 10px;
 }
 
 li {
