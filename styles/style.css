@@ -104,7 +104,7 @@ input {
 footer {
   background-color: rgb(132, 14, 201);
   text-align: center;
-  padding: 10px;
+  padding: 10px 0px;
   margin-top: 50px;
   width: 100%;
 }
